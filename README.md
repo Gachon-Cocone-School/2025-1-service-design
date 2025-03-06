@@ -1,9 +1,9 @@
 ![Image](https://github.com/user-attachments/assets/8be1ef8a-87d3-46d6-b914-af968cc0fc2a)
 
-# UX와 서비스기획 수업
+# 2025학년 1학기 - UX와 서비스기획 수업
 
 ## 강사 정보
-- **이름**: 김남주 (전임교수)
+- **이름**: 김남주, 이민섭 교수
 - **소속**: 가천대학교 스타트업칼리지
 - **이메일**: namjookim@gachon.ac.kr
 - **사무실**: N03호
@@ -39,5 +39,5 @@
 ---
 
 ## 강의 자료(구글슬라이드-학교이메일 필요)
-- [1.UX와 서비스 기획 1](https://docs.google.com/presentation/d/1EPuq7cjj21uD-86jF0g6COa9Zxfyfi-V7iVAliXS4Dc/edit#slide=id.p)
+- [1.UX와 서비스 기획 1(이민섭 교수)](https://docs.google.com/presentation/d/1EPuq7cjj21uD-86jF0g6COa9Zxfyfi-V7iVAliXS4Dc/edit#slide=id.p)
 - TBD
