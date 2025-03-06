@@ -38,6 +38,33 @@
 
 ---
 
+## 참고 자료
+
+### 메인 참고 자료 ( 영문 )
+- [Expert Training | FlutterFlow University - YouTube](https://www.youtube.com/playlist?list=PLsUp7t2vRqx9UE13G8Xod8F-m248iR0E3)
+- [FlutterFlow Docs](https://docs.flutterflow.io/)
+
+### 보조 참고 자료 ( 한글 ) 
+- [플러터플로우FlutterFlow_완전초급_1편 사이트 소개 및 대쉬보드 둘러보기](https://www.youtube.com/watch?v=s4R7ZkBq850&list=PLTmUI8HoTmE5GttPdWT2Yu_jwGhYtkdw3)
+- [플러터플로우FlutterFlow_중급_1편 (Action) 액션 개념 바로 알기](https://www.youtube.com/watch?v=sVpOWrqu5lQ&list=PLTmUI8HoTmE7IWCrdFiSVzMUQ0_QpQMwL)
+- [Flutterflow 심화(고급) 커스텀 인증 (계정생성, 로그인) / Custom Authentication (JWT auth)](https://www.youtube.com/watch?v=FiSOmThjwSo&list=PLTmUI8HoTmE7xvQhFXi1z3uW6pTIQqVL8)
+
+### 보조 참고 자료
+
+#### 디자인시스템 입문
+- [The box model for beginners — Web fundamentals](https://www.youtube.com/watch?v=PcFXt8o7uGg)
+- [Intro to HTML for beginners — Web fundamentals](https://www.youtube.com/watch?v=EFHoH15i4Zg)
+- [Intro to CSS for beginners — Web fundamentals](https://www.youtube.com/watch?v=De2unauLBks)
+
+#### Material 디자인 시스템
+- [Palette Perfect: How Material Design Makes Color Easy](https://www.youtube.com/watch?v=xYkz0Ueg0L4&list=PLJ21zHI2TNh9hcG0FFb4GVnHhTLGYtkfo)
+- [Understanding the Material Design color system | Google Design Tutorials](https://www.youtube.com/watch?v=TB3L1LbC4zw&t=2s)
+- [Understanding the Material Design type system | Google Design Tutorials](https://www.youtube.com/watch?v=AUXKtt6bizw)
+- [Components — Material Design 3](https://m3.material.io/components)
+- [Material 3 컴포넌트 데모](https://flutter.github.io/samples/web/material_3_demo/)
+
+---
+
 ## 강의 자료(구글슬라이드-학교이메일 필요)
 - [1.UX와 서비스 기획 1(이민섭 교수)](https://docs.google.com/presentation/d/1EPuq7cjj21uD-86jF0g6COa9Zxfyfi-V7iVAliXS4Dc/edit#slide=id.p)
 - TBD
