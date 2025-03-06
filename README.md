@@ -65,6 +65,6 @@
 
 ---
 
-## 강의 자료(구글슬라이드-학교이메일 필요)
-- [1.UX와 서비스 기획 1(이민섭 교수)](https://docs.google.com/presentation/d/1EPuq7cjj21uD-86jF0g6COa9Zxfyfi-V7iVAliXS4Dc/edit#slide=id.p)
+## 강의 슬라이드(학교 이메일 로그인 필요)
+- [1.UX와 서비스 기획 1(courtesy by 이민섭 교수)](https://docs.google.com/presentation/d/1EPuq7cjj21uD-86jF0g6COa9Zxfyfi-V7iVAliXS4Dc/edit#slide=id.p)
 - TBD
