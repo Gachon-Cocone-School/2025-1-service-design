@@ -63,8 +63,11 @@
 - [Components — Material Design 3](https://m3.material.io/components)
 - [Material 3 컴포넌트 데모](https://flutter.github.io/samples/web/material_3_demo/)
 
+### 기타 자료
+- 2024.11.07 - [이석영 특강 자료](https://drive.google.com/file/d/1GPpXfTTUHaV9f34464aQCQLMafQlFwlJ/view?usp=drive_link)
+
 ---
 
 ## 강의 슬라이드(학교 이메일 로그인 필요)
-- [1.UX와 서비스 기획 1(courtesy by 이민섭 교수)](https://docs.google.com/presentation/d/1EPuq7cjj21uD-86jF0g6COa9Zxfyfi-V7iVAliXS4Dc/edit#slide=id.p)
+- 2025.03.06 - [1. UX와 서비스 기획 1(courtesy by 이민섭 교수)](https://docs.google.com/presentation/d/1EPuq7cjj21uD-86jF0g6COa9Zxfyfi-V7iVAliXS4Dc/edit#slide=id.p)
 - TBD
