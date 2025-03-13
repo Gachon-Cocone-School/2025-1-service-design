@@ -70,7 +70,7 @@
 
 ## 강의 슬라이드(학교 이메일 로그인 필요)
 - 2025.03.06 - [1. UX와 서비스 기획 1(courtesy by 이민섭 교수)](https://docs.google.com/presentation/d/1EPuq7cjj21uD-86jF0g6COa9Zxfyfi-V7iVAliXS4Dc/edit#slide=id.p)
-  - [1강 과제 제출 자료](files/homework/2025.03.06)
+  - [과제 제출 자료](files/homework/2025.03.06)
 - 2024.03.13 - [2. 사용자 이해하기 (실습) ](https://docs.google.com/presentation/d/1IW3oRmw-ooX7OExOnto1BBKa9A-h5_rS2UGYPhFW75U/edit#slide=id.g3178d7ca9b3_0_2)
   - [수업내 퀴즈 및 정답](https://drive.google.com/file/d/1dremsJ9OTLto3j2fhLIfw5SLoAqY3qOk/view?usp=drive_link)
   - [수업내 조별 발표 자료](files/in-class/2025.03.13)
