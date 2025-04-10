@@ -77,7 +77,8 @@
 - 2025.03.20 - [3.Flutterflow 초급](https://docs.google.com/presentation/d/1eD07_B2u1j4MLbYu8hSSNz2tNswOP1k78qrag8mzAwY/edit?usp=drive_link)
 - 2025.04.03 - [4. Agile 방법론](https://docs.google.com/presentation/d/15_yJ_aUEuBTycuEgf8q9Y3UBFe_Ngkc62eLXa5Y3zCs/edit?slide=id.g34115aab883_1_480#slide=id.g34115aab883_1_480)
   - [수업 내 데모 프로젝트](https://github.com/namjoo-kim-gachon/tut01)
-
+- 2025.04.10 - [3.Flutterflow 중급](https://docs.google.com/presentation/d/1Ohvj_vLMQWpsix2-4JctEVjLoBaXaOoSxku9hfUP0FU/edit?slide=id.g34115aab883_0_0#slide=id.g34115aab883_0_0)
+  
 ---
 
 궁금한 사항은 언제든지 namjookim@gachon.ac.kr 로 문의주세요.
