@@ -80,7 +80,8 @@
 - 2025.04.10 - [5.Flutterflow 중급](https://docs.google.com/presentation/d/1Ohvj_vLMQWpsix2-4JctEVjLoBaXaOoSxku9hfUP0FU/edit?slide=id.g34115aab883_0_0#slide=id.g34115aab883_0_0)
   - 과제 #4 peer 평가 결과
     - <img width="500" alt="Image" src="https://github.com/user-attachments/assets/01955531-d552-4145-95c5-d254c202f46e" />
-- 2025.04.17 - [6.API 기초](https://docs.google.com/presentation/d/1Vy66EpRBgj3SCEg0nrXth0o71DyCxNHiFaGBx7zkomM/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0)    
+- 2025.04.17 - [6.API 기초](https://docs.google.com/presentation/d/1Vy66EpRBgj3SCEg0nrXth0o71DyCxNHiFaGBx7zkomM/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0)
+- 2025.04.24 - [7.Flutterflow 고급](https://docs.google.com/presentation/d/1tBbMX86R83UTNpAMzL7hLUxXKaMU72CXrXDqP9TOrkI/edit?slide=id.g33e6a909d6a_0_453#slide=id.g33e6a909d6a_0_453)
 
 ---
 
