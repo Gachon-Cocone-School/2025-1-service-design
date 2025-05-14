@@ -84,6 +84,7 @@
 - 2025.04.24 - [7.Flutterflow 고급](https://docs.google.com/presentation/d/1tBbMX86R83UTNpAMzL7hLUxXKaMU72CXrXDqP9TOrkI/edit?slide=id.g33e6a909d6a_0_453#slide=id.g33e6a909d6a_0_453)
 - 2025.05.01 - [8. UX와 서비스 기획 2 (courtesy by 이민섭 교수)](https://docs.google.com/presentation/d/1-NKCT4sHyqh8-17k88JSY7DFyLSPCsiK5TxaUz1HdJg/edit?slide=id.p#slide=id.p)
 - 2025.05.08 - [9. Clone project 발표](https://docs.google.com/presentation/d/1MmuCGoHpWAq69XiRe-p4EvCrWLoRKyoK03AzNi-dR4Q/edit?slide=id.g355937b1263_0_14#slide=id.g355937b1263_0_14)
+- 2025.05.15 - [10. LLM 활용 초급](https://docs.google.com/presentation/d/1DtIghwPCyIaspwVNtCiMs_3gvLd_TmFS4Jlg9hK7bYI/edit?slide=id.g34ba2e15ec2_0_0#slide=id.g34ba2e15ec2_0_0)
 
 ---
 
