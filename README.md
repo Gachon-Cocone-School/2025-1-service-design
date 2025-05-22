@@ -87,7 +87,8 @@
   - Clone project peer 평가 결과
     - <img width="500" alt="Image" src="https://github.com/user-attachments/assets/74d90493-bf0d-4365-8a65-c0cf03151cf9" />
 - 2025.05.15 - [10. LLM 활용 초급](https://docs.google.com/presentation/d/1DtIghwPCyIaspwVNtCiMs_3gvLd_TmFS4Jlg9hK7bYI/edit?slide=id.g34ba2e15ec2_0_0#slide=id.g34ba2e15ec2_0_0)
-- 2025.05.23 - [11. LLM 활용 고급](https://docs.google.com/presentation/d/1PqpphEHq-zwq_XUvwni36w-Cv6LZ5jE7qK9VXYAg7eA/edit?slide=id.g2fa210ca67d_0_1#slide=id.g2fa210ca67d_0_1)
+- 2025.05.23 - [11. LLM 활용 중급](https://docs.google.com/presentation/d/1PqpphEHq-zwq_XUvwni36w-Cv6LZ5jE7qK9VXYAg7eA/edit?slide=id.g2fa210ca67d_0_1#slide=id.g2fa210ca67d_0_1)
+- 2025.05.30 - [12. LLM 활용 고급](https://docs.google.com/presentation/d/1HB5Mc_6SeeU7pJVlgmswyl7quArFOlSkrH7BYH4_548/edit)
 
 ---
 
