@@ -89,6 +89,7 @@
 - 2025.05.15 - [10. LLM 활용 초급](https://docs.google.com/presentation/d/1DtIghwPCyIaspwVNtCiMs_3gvLd_TmFS4Jlg9hK7bYI/edit?slide=id.g34ba2e15ec2_0_0#slide=id.g34ba2e15ec2_0_0)
 - 2025.05.23 - [11. LLM 활용 중급](https://docs.google.com/presentation/d/1PqpphEHq-zwq_XUvwni36w-Cv6LZ5jE7qK9VXYAg7eA/edit?slide=id.g2fa210ca67d_0_1#slide=id.g2fa210ca67d_0_1)
 - 2025.05.30 - [12. LLM 활용 고급](https://docs.google.com/presentation/d/1HB5Mc_6SeeU7pJVlgmswyl7quArFOlSkrH7BYH4_548/edit)
+- 2025.06.12 - [15. 기말 프로젝트 발표](https://docs.google.com/presentation/d/1Enj5pujxv6I5QFsjFVSodhL9FQ_9Ldjob8nnh2SkoJw/edit?slide=id.g34ba2e15ec2_0_0#slide=id.g34ba2e15ec2_0_0)
 
 ---
 
