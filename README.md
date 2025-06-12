@@ -91,7 +91,7 @@
 - 2025.05.30 - [12. LLM 활용 고급](https://docs.google.com/presentation/d/1HB5Mc_6SeeU7pJVlgmswyl7quArFOlSkrH7BYH4_548/edit)
 - 2025.06.12 - [15. 기말 프로젝트 발표](https://docs.google.com/presentation/d/1Enj5pujxv6I5QFsjFVSodhL9FQ_9Ldjob8nnh2SkoJw/edit?slide=id.g34ba2e15ec2_0_0#slide=id.g34ba2e15ec2_0_0)
   - 기말 프로젝트 peer 평가 결과
-    - <img width="1712" alt="Image" src="https://github.com/user-attachments/assets/78ce1820-0671-4753-9d36-e3a4be3eb80e" />  
+    - <img width="500" alt="Image" src="https://github.com/user-attachments/assets/78ce1820-0671-4753-9d36-e3a4be3eb80e" />  
 
 ---
 
